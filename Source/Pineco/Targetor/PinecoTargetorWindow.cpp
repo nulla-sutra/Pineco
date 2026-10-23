@@ -1,7 +1,7 @@
 ﻿// Copyright 2019-Present tarnishablec. All Rights Reserved.
 
 
-#include "PinecoTargetorWindow.h"
+#include "Pineco/Targetor/PinecoTargetorWindow.h"
 
 UPinecoTargetorWindow::UPinecoTargetorWindow()
 {

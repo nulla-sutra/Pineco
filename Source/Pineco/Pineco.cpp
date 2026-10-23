@@ -1,6 +1,6 @@
 ﻿// Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "Pineco.h"
+#include "Pineco/Pineco.h"
 
 #define LOCTEXT_NAMESPACE "FPinecoModule"
 

@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "PinecoTargetor.h"
+#include "Pineco/Targetor/PinecoTargetor.h"
 #include "PinecoTargetor_Overlap.generated.h"
 
 UCLASS(Abstract)

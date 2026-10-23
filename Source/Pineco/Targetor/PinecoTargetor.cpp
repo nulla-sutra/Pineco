@@ -1,7 +1,7 @@
 ﻿// Copyright 2019-Present tarnishablec. All Rights Reserved.
 
 
-#include "PinecoTargetor.h"
+#include "Pineco/Targetor/PinecoTargetor.h"
 
 #include "Abilities/GameplayAbility.h"
 

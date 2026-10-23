@@ -6,7 +6,10 @@ public class Pineco : ModuleRules
 {
 	public Pineco(ReadOnlyTargetRules Target) : base(Target)
 	{
-		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+		PCHUsage = PCHUsageMode.Default;
+
+		// Resolve module-qualified headers through Unreal's parent include paths.
+		bLegacyParentIncludePaths = true;
 
 		PublicIncludePaths.AddRange(
 			new string[]
