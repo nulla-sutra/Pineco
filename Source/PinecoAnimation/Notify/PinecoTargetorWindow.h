@@ -7,12 +7,11 @@
 #include "StructUtils/InstancedStruct.h"
 #include "PinecoTargetorWindow.generated.h"
 
-class APinecoTargetor;
 /**
  * 
  */
 UCLASS(DisplayName="Targetor Window (Pineco)")
-class PINECO_API UPinecoTargetorWindow : public UAnimNotify_PlayMontageNotifyWindow
+class PINECOANIMATION_API UPinecoTargetorWindow : public UAnimNotify_PlayMontageNotifyWindow
 {
     GENERATED_BODY()
 

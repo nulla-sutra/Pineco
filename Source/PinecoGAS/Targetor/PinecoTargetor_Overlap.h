@@ -3,11 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "Pineco/Targetor/PinecoTargetor.h"
+#include "PinecoGAS/Targetor/PinecoTargetor.h"
 #include "PinecoTargetor_Overlap.generated.h"
 
 UCLASS(Abstract)
-class PINECO_API APinecoTargetor_Overlap : public APinecoTargetor
+class PINECOGAS_API APinecoTargetor_Overlap : public APinecoTargetor
 {
     GENERATED_BODY()
 

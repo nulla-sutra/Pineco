@@ -7,7 +7,7 @@
 #include "PinecoTargetor.generated.h"
 
 UCLASS(Abstract)
-class PINECO_API APinecoTargetor : public AGameplayAbilityTargetActor
+class PINECOGAS_API APinecoTargetor : public AGameplayAbilityTargetActor
 {
     GENERATED_BODY()
 

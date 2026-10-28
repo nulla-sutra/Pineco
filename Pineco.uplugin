@@ -15,7 +15,17 @@
     "Installed": false,
     "Modules": [
         {
-            "Name": "Pineco",
+            "Name": "PinecoTrace",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        },
+        {
+            "Name": "PinecoAnimation",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        },
+        {
+            "Name": "PinecoGAS",
             "Type": "Runtime",
             "LoadingPhase": "Default"
         }
