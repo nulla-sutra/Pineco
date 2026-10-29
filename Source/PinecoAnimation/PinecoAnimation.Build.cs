@@ -11,7 +11,7 @@ public class PinecoAnimation : ModuleRules
 
         PublicDependencyModuleNames.AddRange(new[]
         {
-            "Core", "CoreUObject", "Engine", "AnimGraphRuntime", "PinecoTrace"
+            "Core", "CoreUObject", "Engine", "PinecoTrace"
         });
     }
 }
